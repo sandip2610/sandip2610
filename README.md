@@ -7,10 +7,6 @@
   </a>
 </p>
 
-
-
-
-
 <h2>🌐 Connect</h2>
 <p align="center">
   <a href="mailto:sandipmandal2610@gmail.com" target="blank" style="margin: 0 10px;">
@@ -27,9 +23,6 @@
   </a>
 
 </p>
-
-
-
 
 <h2>🛠️ Tech Stack</h2>
 <p align="center"> 
@@ -57,20 +50,4 @@
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> 
   </a>
-</p>
-
-
-
-
-
-
-
-<h2> 📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandipmandla&show_icons=true&theme=dark" alt="sandipmandla's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandipmandla&theme=dark" alt="sandipmandla's streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandipmandla&layout=compact&theme=dark" alt="Top Languages" />
 </p>
