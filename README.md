@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandip Mandla</h1>
-<h3 align="center">Web Developer from India</h3>
+<h3 align="center">Python Developer | Building Web Applications With Passion.</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
