@@ -23,9 +23,10 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
   <a href="mailto:sandipmandal2610@gmail.com" target="blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email" height="30" width="40" />
   </a>
 </p>
+
 
 
 
