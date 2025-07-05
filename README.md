@@ -11,19 +11,19 @@
 
 
 
-<h2>🌐 Connect with me</h2>
+<h2 align="center">🌐 Connect</h2>
 <p align="center">
-  <a href="mailto:sandipmandal2610@gmail.com" target="blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/sandip_man82466" target="blank">
+  <a href="https://twitter.com/sandip_man82466" target="blank" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/sandip-kumar-mandal" target="blank">
+  <a href="https://linkedin.com/in/sandip-kumar-mandal" target="blank" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://fb.com/profile.php?id=100047353564958" target="blank">
+  <a href="https://fb.com/profile.php?id=100047353564958" target="blank" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="mailto:sandipmandal2610@gmail.com" target="blank" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
 
