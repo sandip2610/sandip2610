@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sandip Mandla</h1>
+<h1 align="center">Hi 👋, I'm Sandip Mandal</h1>
 <h3 align="center">Python Developer | Building Web Applications With Passion.</h3>
 
 <p align="center">
