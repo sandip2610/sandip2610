@@ -13,8 +13,7 @@
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email" height="30" width="40" />
   </a>
   <a href="mailto:sandip_mandal@zohomail.com" target="_blank" style="margin: 0 10px;">
-  <img src="https://seeklogo.com/images/Z/zoho-mail-logo-22485E2176-seeklogo.com.png" 
-       alt="Zoho Mail" height="30" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Zoho-logo.png" alt="Zoho Mail" height="30" width="40" />
   </a>
   <a href="https://twitter.com/sandip_man82466" target="blank" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
@@ -25,7 +24,6 @@
   <a href="https://fb.com/profile.php?id=100047353564958" target="blank" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-
 </p>
 
 <h2>🛠️ Tech Stack</h2>
